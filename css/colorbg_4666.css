@@ -8,11 +8,11 @@
 
 	background-size:cover;	
 
-	background: radial-gradient(center , ellipse cover , rgb(41, 31, 31) 8% , rgb(0, 0, 0) 80%);
-background: -o-radial-gradient(center , ellipse cover , rgb(41, 31, 31) 8% , rgb(0, 0, 0) 80%);
-background: -ms-radial-gradient(center , ellipse cover , rgb(41, 31, 31) 8% , rgb(0, 0, 0) 80%);
-background: -moz-radial-gradient(center , ellipse cover , rgb(41, 31, 31) 8% , rgb(0, 0, 0) 80%);
-background: -webkit-radial-gradient(center , ellipse cover , rgb(41, 31, 31) 8% , rgb(0, 0, 0) 80%);
+	background: radial-gradient(center , ellipse cover , rgb(41, 31, 31) 10% , rgba(0, 0, 0, 0.682353) 58%);
+background: -o-radial-gradient(center , ellipse cover , rgb(41, 31, 31) 10% , rgba(0, 0, 0, 0.682353) 58%);
+background: -ms-radial-gradient(center , ellipse cover , rgb(41, 31, 31) 10% , rgba(0, 0, 0, 0.682353) 58%);
+background: -moz-radial-gradient(center , ellipse cover , rgb(41, 31, 31) 10% , rgba(0, 0, 0, 0.682353) 58%);
+background: -webkit-radial-gradient(center , ellipse cover , rgb(41, 31, 31) 10% , rgba(0, 0, 0, 0.682353) 58%);
 
 
 
